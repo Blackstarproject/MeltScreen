@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ISOV", "ISOV\ISOV.vbproj", "{1FC1655B-4174-4134-8390-22B5545E7C58}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{E1074553-8E04-46A7-8846-08066F92C30E}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1FC1655B-4174-4134-8390-22B5545E7C58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FC1655B-4174-4134-8390-22B5545E7C58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FC1655B-4174-4134-8390-22B5545E7C58}.Debug|x64.ActiveCfg = Debug|x64
+		{1FC1655B-4174-4134-8390-22B5545E7C58}.Debug|x64.Build.0 = Debug|x64
+		{1FC1655B-4174-4134-8390-22B5545E7C58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FC1655B-4174-4134-8390-22B5545E7C58}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1FC1655B-4174-4134-8390-22B5545E7C58}.Release|x64.ActiveCfg = Release|x64
+		{1FC1655B-4174-4134-8390-22B5545E7C58}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
